@@ -1,0 +1,7 @@
+{
+    "columns": [
+      { "id": "todo", "name": "To do" },
+      { "id": "inprogress", "name": "In Progress" },
+      { "id": "done", "name": "Done" }
+    ]
+}
